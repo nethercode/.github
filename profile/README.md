@@ -11,7 +11,7 @@ The rising cost of living is putting real pressure on people’s wallets, affect
 
 Even though there are plenty of providers to choose from, the hassle of switching — and the uncertainty about whether it will actually save money — keeps many people stuck with the same supplier. Without clear data on how much energy or water they’re using and what it costs, it’s hard to know if switching would make any real difference.
 
-But what if this control shifted to the consumer? If people had a clear breakdown of their energy and water usage, they’d be able to see exactly where their money is going. Armed with this knowledge, they could negotiate better deals with providers or make more informed choices about switching. Giving consumers more insight into their usage could make the market more competitive and lead to fairer pricing, helping people keep better control over their household expenses.
+But what if control became decentralized and shifted directly to the consumer? With a detailed, transparent breakdown of their energy and water usage, people could see exactly where their money is going. This kind of decentralized data access would enable consumers to negotiate better deals with providers or make smarter choices about switching, tailored to their specific needs. By decentralizing access to utility data, we empower consumers with the insight they need to foster a more competitive market, potentially leading to fairer pricing and more control over household expenses.
 
 ## Resources
 
