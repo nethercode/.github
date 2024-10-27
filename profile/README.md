@@ -6,6 +6,7 @@ Our goal is to empower customers with greater control over their energy data, gi
 
 1. [Background](#background)
 1. [Being Smart](#being-smart)
+1. [Keeping Users Safe](#keeping-users-safe)
 1. [Resources](#resources)
 
 ## Background
@@ -26,7 +27,7 @@ The data transmission works through a network of sensors within the smart meter,
 
 Currently, energy data from smart meters is securely transmitted to a central network (like the UK's Data Communications Company, DCC), which relays information to energy providers. However, centralization means that customers have limited access to their data and rely on providers to interpret it for them, potentially creating a power imbalance. Integrating blockchain technology could enhance this by decentralizing data access, allowing customers to control and share their data on a secure, tamper-proof network.
 
-## Sensitive Credentials
+## Keeping Users Safe
 
 Storing sensitive data off the blockchain is essential for protecting user privacy and ensuring compliance with regulations. Tamper-proof hardware will play a crucial role in this process by securely storing essential information, including cryptographic keys for encryption and identity verification, as well as user credentials that confirm energy usage without disclosing personal identifiable information (PII). This hardware will manage access control permissions and store usage patterns for insights, effectively tracking interactions and detecting unauthorized access attempts through detailed audit logs. Additionally, it will uphold data-sharing rules established by users, such as expiration dates or usage limits, while performing integrity checks to ensure the firmware remains secure. This robust storage solution not only fortifies overall system security but also empowers users to confidently control and share their energy data.
 
