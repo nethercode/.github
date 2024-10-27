@@ -29,7 +29,15 @@ Currently, energy data from smart meters is securely transmitted to a central ne
 
 ## Keeping Users Safe
 
-Storing sensitive data off the blockchain is essential for protecting user privacy and ensuring compliance with regulations. Tamper-proof hardware will play a crucial role in this process by securely storing essential information, including cryptographic keys for encryption and identity verification, as well as user credentials that confirm energy usage without disclosing personal identifiable information (PII). This hardware will manage access control permissions and store usage patterns for insights, effectively tracking interactions and detecting unauthorized access attempts through detailed audit logs. Additionally, it will uphold data-sharing rules established by users, such as expiration dates or usage limits, while performing integrity checks to ensure the firmware remains secure. This robust storage solution not only fortifies overall system security but also empowers users to confidently control and share their energy data.
+Storing sensitive data using a hybrid approach is essential for protecting user privacy and ensuring compliance with regulations. This will include:
+
+1. **Hashing Credentials**: Only the hashes of user credentials are stored, transforming identifiable information into a fixed-length string that is difficult to reverse.
+1. **Off-Chain Storage**: Sensitive personal identifiable information (PII) is kept off the blockchain in secure environments, ensuring that the blockchain does not contain any directly identifying data.
+1. **Anonymized Data**: Usage metrics and analytics are anonymized or aggregated before storage, preventing identification based on energy consumption patterns.
+1. **Access Control and Permissions**: Tamper-proof hardware enforces strict access controls, allowing only authorized parties to access sensitive data.
+1. **Decentralized Identifiers (DIDs)**: Users interact with the system using unique identifiers that do not reveal their personal identity.
+
+By implementing these measures, the hybrid approach effectively safeguards user privacy while facilitating secure data verification and sharing.
 
 ## Resources
 
