@@ -1,5 +1,7 @@
 # nethercode
 
+Our goal is to empower customers with greater control over their energy data, giving them tools to monitor usage at a more detailed level than ever before. By developing a system of IoT devices and nodes that connect to the blockchain, we can offer consumers a transparent, decentralized platform to view their energy consumption patterns. This allows them to track exactly where and when energy is used, make smarter choices to reduce costs, and compare their usage with similar households on competing providers. With this granular insight and secure data access, customers can choose the best provider for their needs and potentially negotiate better deals, fostering a more consumer-driven and competitive energy market.
+
 ## Table Of Content
 
 1. [Background](#background)
